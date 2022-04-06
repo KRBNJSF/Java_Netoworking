@@ -1,4 +1,4 @@
-# Java_Netoworking
+# Java_Networking
 
 <a href="https://www.javatpoint.com/socket-programming">Socket-Java</a>
 
